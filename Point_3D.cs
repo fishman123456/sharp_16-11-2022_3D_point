@@ -17,7 +17,7 @@ namespace sharp_16_11_2022_3D_point
         }
         public override string ToString()
         {
-            return $"Точка  x {this.x1}, y {this.y1}, z{this.z1}";
+            return $"Точка  x {this.x1}, y {this.y1}, z {this.z1}";
         }
 
     }
